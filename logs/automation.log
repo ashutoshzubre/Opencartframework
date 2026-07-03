@@ -1,0 +1,124 @@
+03:56:54.593 [main] INFO  testCases.TC002_LoginTest - Application Launched
+03:56:59.793 [main] INFO  testCases.TC002_LoginTest - ********** Starting Login Test **********
+03:57:00.450 [main] INFO  testCases.TC002_LoginTest - Clicked My Account
+03:57:01.024 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+03:57:11.102 [main] ERROR testCases.TC002_LoginTest - Login Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: chrome=149.0.7827.197)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [12ecb9efa6ba80bf5d72c685293594ec, findElement {using=xpath, value=//input[@id='input-email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\HPMVE~1\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49245}, goog:processID: 1956, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49245/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 12ecb9efa6ba80bf5d72c685293594ec
+03:57:11.661 [main] INFO  testCases.TC002_LoginTest - Browser Closed
+04:02:44.585 [main] INFO  testCases.TC001_AccountRegistrationTest - Application Launched
+04:02:49.645 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting Account Registration Test **********
+04:03:00.140 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='My Account']"}
+  (Session info: chrome=149.0.7827.197)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e31a7ddf67611cf056d209b6c70ec9df, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\HPMVE~1\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49650}, goog:processID: 5140, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49650/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e31a7ddf67611cf056d209b6c70ec9df
+04:03:00.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser Closed
+04:03:04.872 [main] INFO  testCases.TC002_LoginTest - Application Launched
+04:03:09.941 [main] INFO  testCases.TC002_LoginTest - ********** Starting Login Test **********
+04:03:17.416 [main] ERROR testCases.TC002_LoginTest - Login Test Failed : invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=149.0.7827.197)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0cfb680615906c154d1ef2c2eeba5f1, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.197, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\HPMVE~1\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49759}, goog:processID: 8624, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49759/devtoo..., se:cdpVersion: 149.0.7827.197, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0cfb680615906c154d1ef2c2eeba5f1
+04:03:17.906 [main] INFO  testCases.TC002_LoginTest - Browser Closed
+04:17:46.237 [main] INFO  testCases.TC002_LoginTest - Application Launched
+04:17:46.293 [main] INFO  testCases.TC002_LoginTest - ********** Starting Login Test **********
+04:17:56.416 [main] ERROR testCases.TC002_LoginTest - Login Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='My Account']"}
+  (Session info: chrome=149.0.7827.201)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e309968f4b10a6b056d26652891f6245, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.201, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\HPMVE~1\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51521}, goog:processID: 9012, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51521/devtoo..., se:cdpVersion: 149.0.7827.201, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e309968f4b10a6b056d26652891f6245
+04:17:57.212 [main] INFO  testCases.TC002_LoginTest - Browser Closed
+04:46:53.088 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Application Launched *****
+04:46:53.139 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+04:47:03.234 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+04:47:03.849 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Browser Closed *****
+04:47:06.921 [main] INFO  testCases.TC002_LoginTest - ***** Application Launched *****
+04:47:06.925 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+04:47:16.985 [main] ERROR testCases.TC002_LoginTest - Login Failed
+04:47:19.055 [main] INFO  testCases.TC002_LoginTest - ***** Browser Closed *****
+04:47:25.185 [main] INFO  testCases.TC003_LoginDDT - ***** Application Launched *****
+04:47:26.323 [main] INFO  testCases.TC003_LoginDDT - ***** Browser Closed *****
+04:53:24.820 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Application Launched *****
+04:53:24.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+04:53:35.093 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+04:53:35.774 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Browser Closed *****
+04:53:44.593 [main] INFO  testCases.TC003_LoginDDT - ***** Application Launched *****
+04:53:45.523 [main] INFO  testCases.TC003_LoginDDT - ***** Browser Closed *****
+05:03:19.989 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Application Launched *****
+05:03:20.022 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+05:03:30.158 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+05:03:30.544 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Browser Closed *****
+05:03:33.392 [main] INFO  testCases.TC002_LoginTest - ***** Application Launched *****
+05:03:33.395 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+05:03:43.650 [main] ERROR testCases.TC002_LoginTest - Login Failed
+05:03:44.168 [main] INFO  testCases.TC002_LoginTest - ***** Browser Closed *****
+05:03:47.414 [main] INFO  testCases.TC003_LoginDDT - ***** Application Launched *****
+05:03:47.801 [main] INFO  testCases.TC003_LoginDDT - ***** Browser Closed *****
+05:06:43.526 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Application Launched *****
+05:06:43.564 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+05:06:53.672 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+05:06:54.096 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Browser Closed *****
+05:06:57.180 [main] INFO  testCases.TC002_LoginTest - ***** Application Launched *****
+05:06:57.183 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+05:07:07.312 [main] ERROR testCases.TC002_LoginTest - Login Failed
+05:07:07.862 [main] INFO  testCases.TC002_LoginTest - ***** Browser Closed *****
+05:07:11.053 [main] INFO  testCases.TC003_LoginDDT - ***** Application Launched *****
+05:07:11.328 [main] INFO  testCases.TC003_LoginDDT - ***** Browser Closed *****
+08:12:38.102 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Application Launched ********
+08:12:38.139 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+08:12:48.262 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+08:12:48.793 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Browser Closed ********
+08:12:51.526 [main] INFO  testCases.TC002_LoginTest - ******** Application Launched ********
+08:12:51.532 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+08:13:01.641 [main] ERROR testCases.TC002_LoginTest - Login Failed
+08:13:02.046 [main] INFO  testCases.TC002_LoginTest - ******** Browser Closed ********
+08:13:04.977 [main] INFO  testCases.TC003_LoginDDT - ******** Application Launched ********
+08:13:05.338 [main] INFO  testCases.TC003_LoginDDT - ******** Browser Closed ********
+08:26:21.315 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Application Launched ********
+08:26:21.351 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+08:26:31.425 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+08:26:32.099 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Browser Closed ********
+08:26:34.923 [main] INFO  testCases.TC002_LoginTest - ******** Application Launched ********
+08:26:34.934 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+08:26:45.022 [main] ERROR testCases.TC002_LoginTest - Login Failed
+08:26:46.995 [main] INFO  testCases.TC002_LoginTest - ******** Browser Closed ********
+08:26:49.712 [main] INFO  testCases.TC003_LoginDDT - ******** Application Launched ********
+08:26:50.030 [main] INFO  testCases.TC003_LoginDDT - ******** Browser Closed ********
+08:52:01.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Application Launched ********
+08:52:01.051 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+08:52:11.160 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+08:52:11.547 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Browser Closed ********
+08:52:14.468 [main] INFO  testCases.TC002_LoginTest - ******** Application Launched ********
+08:52:14.472 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+08:52:24.522 [main] ERROR testCases.TC002_LoginTest - Login Failed
+08:52:26.473 [main] INFO  testCases.TC002_LoginTest - ******** Browser Closed ********
+08:52:29.535 [main] INFO  testCases.TC003_LoginDDT - ******** Application Launched ********
+08:52:30.041 [main] INFO  testCases.TC003_LoginDDT - ******** Browser Closed ********
+07:54:01.010 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Application Launched ********
+07:54:01.164 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+07:54:11.738 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+07:54:14.258 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Browser Closed ********
+07:54:17.145 [main] INFO  testCases.TC002_LoginTest - ******** Application Launched ********
+07:54:17.150 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+07:54:25.242 [main] ERROR testCases.TC002_LoginTest - Login Failed
+07:54:25.507 [main] INFO  testCases.TC002_LoginTest - ******** Browser Closed ********
