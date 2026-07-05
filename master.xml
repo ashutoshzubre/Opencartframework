@@ -3,9 +3,11 @@
 
 <suite name="Master Suite">
 
-	<listeners>
-		<listener class-name="utilities.ExtentReportManager"/>
-	</listeners>
+	    <!--
+		<listeners>
+		    <listener class-name="utilities.ExtentReportManager"/>
+		</listeners>
+		-->
 
 	<test thread-count="5" name="ChromeTest">
 

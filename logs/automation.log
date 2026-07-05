@@ -122,3 +122,23 @@ Session ID: e309968f4b10a6b056d26652891f6245
 07:54:17.150 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
 07:54:25.242 [main] ERROR testCases.TC002_LoginTest - Login Failed
 07:54:25.507 [main] INFO  testCases.TC002_LoginTest - ******** Browser Closed ********
+08:06:27.685 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Application Launched ********
+08:06:27.754 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting Account Registration Test ********
+08:06:37.924 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+08:06:39.968 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Browser Closed ********
+08:06:42.121 [main] INFO  testCases.TC002_LoginTest - ******** Application Launched ********
+08:06:42.129 [main] INFO  testCases.TC002_LoginTest - ******** Starting Login Test ********
+08:06:52.883 [main] ERROR testCases.TC002_LoginTest - Login Failed
+08:06:54.756 [main] INFO  testCases.TC002_LoginTest - ******** Browser Closed ********
+08:07:01.784 [main] INFO  testCases.TC003_LoginDDT - ******** Application Launched ********
+08:07:02.921 [main] INFO  testCases.TC003_LoginDDT - ******** Browser Closed ********
+08:07:06.814 [main] INFO  testCases.TC004_SearchProductTest - ******** Application Launched ********
+08:07:06.838 [main] INFO  testCases.TC004_SearchProductTest - ***** Starting TC004_SearchProductTest *****
+08:07:08.787 [main] ERROR testCases.TC004_SearchProductTest - Test Failed
+08:07:08.947 [main] INFO  testCases.TC004_SearchProductTest - ******** Browser Closed ********
+08:07:11.202 [main] INFO  testCases.TC005_AddToCartPageTest - ******** Application Launched ********
+08:07:11.271 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddToCartPageTest *****
+08:07:11.437 [main] ERROR testCases.TC005_AddToCartPageTest - Test Failed
+08:07:12.051 [main] INFO  testCases.TC005_AddToCartPageTest - ******** Browser Closed ********
+08:07:14.537 [main] INFO  testCases.TC006_EndToEndTest - ******** Application Launched ********
+08:07:15.266 [main] INFO  testCases.TC006_EndToEndTest - ******** Browser Closed ********
