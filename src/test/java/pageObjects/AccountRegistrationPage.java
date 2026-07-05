@@ -90,4 +90,14 @@ public class AccountRegistrationPage extends BasePage {
 			return e.getMessage();
 		}
 	}
+
+	public void setTelephone(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setPrivacyPolicy() {
+		// TODO Auto-generated method stub
+		
+	}
 }
